@@ -1,5 +1,5 @@
-def using_push(aray, string)
-  return array.push(string)
+def using_push(array, string)
+  array.push(string)
 end
 
 def using_unshift(array, string)
